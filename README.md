@@ -10,4 +10,4 @@ Lets get back to it. In the following project, I answered these questions using 
 4. Which is the most preferred ship mode?
 5. Which are the most profitable category and sub-category?
 
-The results are surprising as they do not align with the sales made at my warehouse #1124. 
+The results are surprising as they do not align with the sales made at my warehouse #1124. The dataset was retrived from https://github.com/vizh4l.  
